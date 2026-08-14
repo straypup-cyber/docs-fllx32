@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-v4uflr.pulaucuan.sbs/sitemap.xml
